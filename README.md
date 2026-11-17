@@ -1,16 +1,17 @@
 <div align="center">
 
-<a href="#support-the-project"><img src="https://img.shields.io/badge/USDT-Donate-1A7A5D?style=for-the-badge&logo=tether&logoColor=white&labelColor=26A17B" alt="Donate USDT" height="40"></a>
-<a href="#solana"><img src="https://img.shields.io/badge/SOL-Donate-14F195?style=for-the-badge&logo=solana&logoColor=white&labelColor=9945FF" alt="Donate SOL" height="40"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/ETH-Donate-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=3C3C3D" alt="Donate ETH" height="40"></a>
-<a href="#bitcoin"><img src="https://img.shields.io/badge/BTC-Donate-B8650A?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=F7931A" alt="Donate BTC" height="40"></a>
+<a href="#support-the-project"><img src="https://img.shields.io/badge/USDT-Donate-1A7A5D?style=for-the-badge&logo=tether&logoColor=white&labelColor=26A17B" alt="Donate USDT" width="198"></a>
+<a href="#solana"><img src="https://img.shields.io/badge/SOL-Donate-14F195?style=for-the-badge&logo=solana&logoColor=white&labelColor=9945FF" alt="Donate SOL" width="185"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/ETH-Donate-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=3C3C3D" alt="Donate ETH" width="183"></a>
+<a href="#bitcoin"><img src="https://img.shields.io/badge/BTC-Donate-B8650A?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=F7931A" alt="Donate BTC" width="185"></a>
 <br>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/BNB%20Chain-Donate-B8860B?style=for-the-badge&logo=bnbchain&logoColor=black&labelColor=F0B90B" alt="Donate on BNB Chain" height="30"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/Base-Donate-0033A0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwYTEyIDEyIDAgMSAxLTExLjk1IDEzLjFoMTUuOHYtMi4ySC4wNUExMiAxMiAwIDAgMSAxMiAweiIvPjwvc3ZnPg==&logoColor=white&labelColor=0052FF" alt="Donate on Base" height="30"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/Polygon-Donate-5A2EB0?style=for-the-badge&logo=polygon&logoColor=white&labelColor=8247E5" alt="Donate on Polygon" height="30"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/Robinhood-Donate-6B8500?style=for-the-badge&logo=robinhood&logoColor=black&labelColor=CCFF00" alt="Donate on Robinhood" height="30"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/ARC-Donate-283593?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTMgMTlhOSA5IDAgMCAxIDE4IDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMy4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=&logoColor=white&labelColor=3D5AFE" alt="Donate on ARC" height="30"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/HyperEVM-Donate-2B7A68?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iYmxhY2siIGQ9Ik0yIDRoNHY2aDEyVjRoNHYxNmgtNHYtNkg2djZIMnoiLz48L3N2Zz4=&logoColor=black&labelColor=97FCE4" alt="Donate on HyperEVM" height="30"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/BNB%20Chain-Donate-B8860B?style=for-the-badge&logo=bnbchain&logoColor=black&labelColor=F0B90B" alt="Donate on BNB Chain" width="206"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/Base-Donate-0033A0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwYTEyIDEyIDAgMSAxLTExLjk1IDEzLjFoMTUuOHYtMi4ySC4wNUExMiAxMiAwIDAgMSAxMiAweiIvPjwvc3ZnPg==&logoColor=white&labelColor=0052FF" alt="Donate on Base" width="165"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/Polygon-Donate-5A2EB0?style=for-the-badge&logo=polygon&logoColor=white&labelColor=8247E5" alt="Donate on Polygon" width="193"></a>
+<br>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/Robinhood-Donate-6B8500?style=for-the-badge&logo=robinhood&logoColor=black&labelColor=CCFF00" alt="Donate on Robinhood" width="213"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/ARC-Donate-283593?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTMgMTlhOSA5IDAgMCAxIDE4IDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMy4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=&logoColor=white&labelColor=3D5AFE" alt="Donate on ARC" width="156"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/HyperEVM-Donate-2B7A68?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iYmxhY2siIGQ9Ik0yIDRoNHY2aDEyVjRoNHYxNmgtNHYtNkg2djZIMnoiLz48L3N2Zz4=&logoColor=black&labelColor=97FCE4" alt="Donate on HyperEVM" width="201"></a>
 
 <br><br>
 
@@ -105,16 +106,17 @@ bc1pmulqwc05rugm5q0x03m3nwv6sa7a9um3gcjh3nksyyrxpvp5rpzscywt0x
 
 <div align="center">
 
-<a href="#support-the-project"><img src="https://img.shields.io/badge/USDT-Donate-1A7A5D?style=for-the-badge&logo=tether&logoColor=white&labelColor=26A17B" alt="Donate USDT" height="40"></a>
-<a href="#solana"><img src="https://img.shields.io/badge/SOL-Donate-14F195?style=for-the-badge&logo=solana&logoColor=white&labelColor=9945FF" alt="Donate SOL" height="40"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/ETH-Donate-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=3C3C3D" alt="Donate ETH" height="40"></a>
-<a href="#bitcoin"><img src="https://img.shields.io/badge/BTC-Donate-B8650A?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=F7931A" alt="Donate BTC" height="40"></a>
+<a href="#support-the-project"><img src="https://img.shields.io/badge/USDT-Donate-1A7A5D?style=for-the-badge&logo=tether&logoColor=white&labelColor=26A17B" alt="Donate USDT" width="198"></a>
+<a href="#solana"><img src="https://img.shields.io/badge/SOL-Donate-14F195?style=for-the-badge&logo=solana&logoColor=white&labelColor=9945FF" alt="Donate SOL" width="185"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/ETH-Donate-627EEA?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=3C3C3D" alt="Donate ETH" width="183"></a>
+<a href="#bitcoin"><img src="https://img.shields.io/badge/BTC-Donate-B8650A?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=F7931A" alt="Donate BTC" width="185"></a>
 <br>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/BNB%20Chain-Donate-B8860B?style=for-the-badge&logo=bnbchain&logoColor=black&labelColor=F0B90B" alt="Donate on BNB Chain" height="30"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/Base-Donate-0033A0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwYTEyIDEyIDAgMSAxLTExLjk1IDEzLjFoMTUuOHYtMi4ySC4wNUExMiAxMiAwIDAgMSAxMiAweiIvPjwvc3ZnPg==&logoColor=white&labelColor=0052FF" alt="Donate on Base" height="30"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/Polygon-Donate-5A2EB0?style=for-the-badge&logo=polygon&logoColor=white&labelColor=8247E5" alt="Donate on Polygon" height="30"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/Robinhood-Donate-6B8500?style=for-the-badge&logo=robinhood&logoColor=black&labelColor=CCFF00" alt="Donate on Robinhood" height="30"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/ARC-Donate-283593?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTMgMTlhOSA5IDAgMCAxIDE4IDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMy4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=&logoColor=white&labelColor=3D5AFE" alt="Donate on ARC" height="30"></a>
-<a href="#evm-networks"><img src="https://img.shields.io/badge/HyperEVM-Donate-2B7A68?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iYmxhY2siIGQ9Ik0yIDRoNHY2aDEyVjRoNHYxNmgtNHYtNkg2djZIMnoiLz48L3N2Zz4=&logoColor=black&labelColor=97FCE4" alt="Donate on HyperEVM" height="30"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/BNB%20Chain-Donate-B8860B?style=for-the-badge&logo=bnbchain&logoColor=black&labelColor=F0B90B" alt="Donate on BNB Chain" width="206"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/Base-Donate-0033A0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAwYTEyIDEyIDAgMSAxLTExLjk1IDEzLjFoMTUuOHYtMi4ySC4wNUExMiAxMiAwIDAgMSAxMiAweiIvPjwvc3ZnPg==&logoColor=white&labelColor=0052FF" alt="Donate on Base" width="165"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/Polygon-Donate-5A2EB0?style=for-the-badge&logo=polygon&logoColor=white&labelColor=8247E5" alt="Donate on Polygon" width="193"></a>
+<br>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/Robinhood-Donate-6B8500?style=for-the-badge&logo=robinhood&logoColor=black&labelColor=CCFF00" alt="Donate on Robinhood" width="213"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/ARC-Donate-283593?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTMgMTlhOSA5IDAgMCAxIDE4IDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMy4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=&logoColor=white&labelColor=3D5AFE" alt="Donate on ARC" width="156"></a>
+<a href="#evm-networks"><img src="https://img.shields.io/badge/HyperEVM-Donate-2B7A68?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iYmxhY2siIGQ9Ik0yIDRoNHY2aDEyVjRoNHYxNmgtNHYtNkg2djZIMnoiLz48L3N2Zz4=&logoColor=black&labelColor=97FCE4" alt="Donate on HyperEVM" width="201"></a>
 
 </div>
