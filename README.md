@@ -19,6 +19,8 @@
 
 # Asda Story Revival
 
+<a href="https://discord.gg/anQRWEKVqG"><img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED" alt="Join the Discord server" width="330"></a>
+
 </div>
 
 Asda Story Revival is a community project to rebuild the original Asda Story MMORPG with a Godot client and a compatible game server, both written in C#. The original game guides the reconstruction of its maps, interface, and gameplay. Arabic is the client’s initial language, with support for additional translations.
@@ -75,6 +77,10 @@ The server speaks the original game's network protocol and stores its data in Po
 ⬜ Party, guild, trade and friends windows\
 ⬜ Travel to the other maps\
 ⬜ First playable public release
+
+## Community
+
+Join the project's Discord server, in Arabic with an English chat channel, to follow development, share ideas and old memories of the game, and help with testing or translation: https://discord.gg/anQRWEKVqG
 
 ## Support the project
 
